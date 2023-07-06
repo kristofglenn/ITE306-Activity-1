@@ -1,0 +1,18 @@
+print('Programmer: Kristopher Glenn Martinez')
+
+print('Date Created: July 6, 2023')
+
+print('Description of Program: Personal Information')
+
+print('First Name: Kristopher Glenn')
+print('Middle Name: Muncal')
+print('Last Name: Martinez')
+print('Course: BSIT')
+print('Year: 3rd')
+print('Age: 20')
+print('Gender: Male')
+print('Civil Status: Single')
+print('Nationality: Filipino')
+print('Motto: being A leader is A blief system that guides your desition-making')
+print('School: PHINMA Araullo University')
+print('College: CITE')
