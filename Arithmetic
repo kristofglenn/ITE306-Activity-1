@@ -1,0 +1,7 @@
+num1 = 5
+num2 = 8
+
+print("Sum: ",num1+num2)
+print("Sub: ",num1-num2)
+print("Mul: ",num1*num2)
+print("div: ",num1/num2)
